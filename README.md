@@ -19,7 +19,6 @@
 <div>
   
 - 🌱 I’m currently learning **Front-end Development and Machine Learning**
-- 💬 Ask me about **Web Development**
 - 📫 How to reach me **dulanjananadeeshananuraweera@gmail.com**
 - 👨‍🎓 University of Moratuwa
 - ⚡ Fun fact **joy to freedom**
