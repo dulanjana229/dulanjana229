@@ -18,7 +18,7 @@
 
 <div>
   
-- 🌱 I’m currently learning **Front-end Development and Machine Learning**
+- 🌱 I’m currently learning **Mobile Application Development and UI/UX Design**
 - 📫 How to reach me **dulanjananadeeshananuraweera@gmail.com**
 - 👨‍🎓 University of Moratuwa
 - ⚡ Fun fact **joy to freedom**
@@ -43,8 +43,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,javascript,java,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,jquery,vscode,idea,xd,tailwind,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=cs,python,javascript,androidstudio,github,git,java,kotlin,MySQL" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,jquery,vscode,visualstudio,idea,xd,figma,tailwind,ps,ai" />
     
 </div>
   
